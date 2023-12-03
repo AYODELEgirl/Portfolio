@@ -1,0 +1,139 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0em;
+
+}
+.div1{
+  background-color: grey;
+  height: 100px;
+  text-align: center;
+}
+nav{
+  display: flex;
+  justify-content: space-around;
+  padding: 8px 15px 8px 15px;
+   border: 1.3em; 
+  border-color: white;
+  
+}
+
+#welcome_section{
+    background-image: url(./laptop2.avif);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    text-align: center;
+}
+.project_tile{
+    background-color: lightgray;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+h2{
+  text-align: center;
+  
+}
+.welcome_content{
+  text-align: center;
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  font-size: larger;
+  line-height: 2em;
+}
+.button{
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 8px 15px 8px 15px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.BUTTON{
+  background-color: lightgrey;
+  color: black;
+  border: none;
+  padding: 8px 15px 8px 15px;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-left: 25px;
+}
+.BUTTON:hover{
+  background-color:grey ;
+}
+.button:hover{
+  background-color: white;
+  color: black;
+}
+.skills-button{
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 8px 14px 8px 14px;
+  cursor: pointer;
+}
+.skills-button:hover{
+  background-color: grey;
+  color: white;
+}
+.skills-button2{
+  border: none;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 8px 14px 8px 14px;
+  margin-left: 25px;
+}
+.skills-button2:hover{
+  background-color: grey;
+  color: white;
+}
+.my_contacts{
+  color: white;
+  text-align: center;
+}
+.Contact{
+  margin-bottom: 20px;
+}
+.button{
+  color: white;
+  background-color: black;
+  border: none;
+  border-radius: 15px;
+  padding: 8px 14px 8px 14px;
+  cursor: pointer;
+  margin-left: 25px;
+}
+.button:hover{
+  background-color: white;
+  color: black;
+}
+
+.tel-button{
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  padding: 8px 14px 8px 14px;
+  cursor: pointer;
+  margin-left: 25px;
+}
+.tel-button:hover{
+  background-color: white;
+  color: black;
+}
+#bio-data{
+  text-align: center;
+  background-color: lightgray;
+}
+.bio{
+  margin-bottom: 15px;
+}
