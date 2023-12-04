@@ -98,7 +98,7 @@ h2{
   color: white;
 }
 .my_contacts{
-  color: white;
+  color: lightgray;
   text-align: center;
 }
 .Contact{
@@ -134,6 +134,7 @@ h2{
 #bio-data{
   text-align: center;
   background-color: lightgray;
+  height: 100hv;
 }
 .bio{
   margin-bottom: 15px;
